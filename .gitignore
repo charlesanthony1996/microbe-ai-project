@@ -1,3 +1,7 @@
 .omnipose_data
 omnipose_data
 /omnipose_data
+
+.env
+env
+/env
