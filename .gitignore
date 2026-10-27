@@ -5,3 +5,7 @@ omnipose_data
 .env
 env
 /env
+
+omnipose_data.zip
+/omnipose_data.zip
+.omnipose_data.zip
